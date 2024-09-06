@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS, Azure, Kubernetes**
 
-- 📝 I regularly write articles on [https://blog.seblab.be](https://blog.seblab.be)
+- 📝 I sometimes write articles on [https://blog.seblab.be](https://blog.seblab.be)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
